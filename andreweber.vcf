@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 N:Weber;Andre;;;
 FN:Andre Weber
-ORG:
+ORG:e37269
 TITLE:IT-Support
 TEL;TYPE=CELL:
 TEL;TYPE=WORK:
@@ -11,10 +11,10 @@ TEL;TYPE=MSG:
 TEL;TYPE=SIGNAL:
 EMAIL;TYPE=WORK:andre.weber@e37269.de
 URL;TYPE=Digital Business Card:
-URL:e37269.de
-URL;TYPE=Telegram:https://t.me/e37269
-URL;TYPE=Website:e37269.de
+URL:
+URL;TYPE=Telegram:https://t.me/@e37269
+URL;TYPE=Location:https://www.openstreetmap.org/way/729070953
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:
-UID:EnBizCard-100098348
+UID:EnBizCard-100121287
 END:VCARD
